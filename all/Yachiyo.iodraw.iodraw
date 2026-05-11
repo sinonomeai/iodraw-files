@@ -19,7 +19,7 @@
         <mxCell id="TzJWysyViF4hzWapGxNy-6" value="将Token存储在HttpOnly Cookie中" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="-605" y="-688" width="200" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="TzJWysyViF4hzWapGxNy-7" value="前端跳转到受保护页面" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="TzJWysyViF4hzWapGxNy-7" value="前端跳转到yachiyo页面" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="-600" y="-571" width="190" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TzJWysyViF4hzWapGxNy-8" value="每个后续请求" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
