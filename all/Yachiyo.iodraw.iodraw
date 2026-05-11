@@ -11,7 +11,7 @@
           <mxGeometry x="-451" y="-1169" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TzJWysyViF4hzWapGxNy-3" value="用户输入表单并提交验证" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="-468" y="-1070" width="138" height="49" as="geometry" />
+          <mxGeometry x="-480" y="-1070" width="150" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TzJWysyViF4hzWapGxNy-4" value="/api/auth/login层&#xa;验证表单" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-461" y="-972" width="113" height="113" as="geometry" />
@@ -122,6 +122,9 @@
         </mxCell>
         <mxCell id="TzJWysyViF4hzWapGxNy-27" value="/&lt;div&gt;重定向到&lt;/div&gt;&lt;div&gt;/login&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-450.5" y="-1290" width="92" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TzJWysyViF4hzWapGxNy-37" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="-1070" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
