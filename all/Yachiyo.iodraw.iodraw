@@ -156,11 +156,17 @@
         <mxCell id="TzJWysyViF4hzWapGxNy-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TzJWysyViF4hzWapGxNy-48" target="TzJWysyViF4hzWapGxNy-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="TzJWysyViF4hzWapGxNy-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TzJWysyViF4hzWapGxNy-48" target="TzJWysyViF4hzWapGxNy-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TzJWysyViF4hzWapGxNy-48" value="用户发送提示词" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-990" y="-576.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TzJWysyViF4hzWapGxNy-50" value="/api/chat层&lt;div&gt;接收message&lt;/div&gt;&lt;div&gt;调用模型返回messages&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-1240" y="-576.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1440" y="-576.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TzJWysyViF4hzWapGxNy-52" value="&lt;div&gt;调用模型&lt;/div&gt;精炼第一句作为标题" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-990" y="-716.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
