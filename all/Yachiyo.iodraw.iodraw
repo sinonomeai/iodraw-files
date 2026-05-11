@@ -10,13 +10,8 @@
         <mxCell id="TzJWysyViF4hzWapGxNy-2" value="/login" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-451" y="-1169" width="92" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="TzJWysyViF4hzWapGxNy-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TzJWysyViF4hzWapGxNy-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-330" y="-1045" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="TzJWysyViF4hzWapGxNy-3" value="用户输入表单并提交验证" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="-468" y="-1070" width="126" height="49" as="geometry" />
+          <mxGeometry x="-468" y="-1070" width="138" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TzJWysyViF4hzWapGxNy-4" value="/api/auth/login层&#xa;验证表单" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-461" y="-972" width="113" height="113" as="geometry" />
