@@ -10,6 +10,9 @@
         <mxCell id="TzJWysyViF4hzWapGxNy-2" value="/login" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-451" y="-1169" width="92" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="TzJWysyViF4hzWapGxNy-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TzJWysyViF4hzWapGxNy-3" target="TzJWysyViF4hzWapGxNy-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TzJWysyViF4hzWapGxNy-3" value="用户输入表单并提交验证" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="-480" y="-1070" width="150" height="49" as="geometry" />
         </mxCell>
@@ -125,6 +128,9 @@
         </mxCell>
         <mxCell id="TzJWysyViF4hzWapGxNy-37" value="/api/auth/register层&lt;div&gt;验证注册表单&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-250" y="-1100" width="120" height="115.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TzJWysyViF4hzWapGxNy-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TzJWysyViF4hzWapGxNy-38" target="TzJWysyViF4hzWapGxNy-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TzJWysyViF4hzWapGxNy-38" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-90" y="-1150" width="120" height="60" as="geometry" />
