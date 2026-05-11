@@ -125,7 +125,7 @@
         </mxCell>
         <mxCell id="TzJWysyViF4hzWapGxNy-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="TzJWysyViF4hzWapGxNy-29">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-710" y="4" as="targetPoint" />
+            <mxPoint x="-690" y="10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TzJWysyViF4hzWapGxNy-29" value="重定向到&lt;div&gt;/login&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
