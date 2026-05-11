@@ -7,7 +7,7 @@
         <mxCell id="TzJWysyViF4hzWapGxNy-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TzJWysyViF4hzWapGxNy-2" target="TzJWysyViF4hzWapGxNy-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TzJWysyViF4hzWapGxNy-2" value="login" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="TzJWysyViF4hzWapGxNy-2" value="/login" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-451" y="-1169" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TzJWysyViF4hzWapGxNy-3" value="用户输入凭据" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
@@ -120,7 +120,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TzJWysyViF4hzWapGxNy-27" value="/" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TzJWysyViF4hzWapGxNy-27" value="/&lt;div&gt;重定向到&lt;/div&gt;&lt;div&gt;/login&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-450.5" y="-1290" width="92" height="60" as="geometry" />
         </mxCell>
       </root>
