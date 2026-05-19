@@ -205,6 +205,12 @@
         <mxCell id="wmCAqrg_QVDFLcr42tDl-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wmCAqrg_QVDFLcr42tDl-6" target="wmCAqrg_QVDFLcr42tDl-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="wmCAqrg_QVDFLcr42tDl-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wmCAqrg_QVDFLcr42tDl-6" target="wmCAqrg_QVDFLcr42tDl-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wmCAqrg_QVDFLcr42tDl-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wmCAqrg_QVDFLcr42tDl-6" target="wmCAqrg_QVDFLcr42tDl-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wmCAqrg_QVDFLcr42tDl-6" value="调用useMessage&lt;div&gt;获取历史消息以及title&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-1540" y="-692" width="120" height="60" as="geometry" />
         </mxCell>
@@ -245,7 +251,7 @@
           <mxGeometry x="-1340" y="-832" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wmCAqrg_QVDFLcr42tDl-26" value="调用useChat的setMessages保存历史消息" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-1740" y="-692" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1710" y="-632" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
