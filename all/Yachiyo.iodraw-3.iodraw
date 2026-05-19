@@ -270,8 +270,8 @@
         <mxCell id="wmCAqrg_QVDFLcr42tDl-32" value="根据查询参数获取初始消息，调用sendMessage后开启对话并replace跳转清除查询参数" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-1840" y="-705" width="120" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="wmCAqrg_QVDFLcr42tDl-34" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-1540" y="-552" width="120" height="60" as="geometry" />
+        <mxCell id="wmCAqrg_QVDFLcr42tDl-34" value="侧边栏和会话页调用&lt;div&gt;useListStore&lt;/div&gt;&lt;div&gt;更新标题&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-1540" y="-600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
