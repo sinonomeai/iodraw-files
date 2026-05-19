@@ -170,7 +170,7 @@
         <mxCell id="TzJWysyViF4hzWapGxNy-48" value="&lt;div&gt;/yachiyo&lt;/div&gt;用户发送提示词" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-990" y="-576.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TzJWysyViF4hzWapGxNy-50" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="TzJWysyViF4hzWapGxNy-50" value="跳转到&lt;div&gt;&lt;div&gt;/yachiyo/${sessionId}&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-1440" y="-576.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TzJWysyViF4hzWapGxNy-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TzJWysyViF4hzWapGxNy-52" target="TzJWysyViF4hzWapGxNy-57" edge="1">
