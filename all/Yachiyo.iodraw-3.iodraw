@@ -235,8 +235,11 @@
         <mxCell id="wmCAqrg_QVDFLcr42tDl-21" value="利用tanstack query存储对应键值对，实现缓存效果" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-1180" y="-832" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wmCAqrg_QVDFLcr42tDl-23" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-1380" y="-832" width="120" height="60" as="geometry" />
+        <mxCell id="wmCAqrg_QVDFLcr42tDl-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wmCAqrg_QVDFLcr42tDl-23" target="wmCAqrg_QVDFLcr42tDl-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wmCAqrg_QVDFLcr42tDl-23" value="通过reftchInterval&lt;div&gt;轮询获取title&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-1340" y="-832" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
