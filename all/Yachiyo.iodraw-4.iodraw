@@ -266,8 +266,7 @@
         <mxCell id="wmCAqrg_QVDFLcr42tDl-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wmCAqrg_QVDFLcr42tDl-23" target="wmCAqrg_QVDFLcr42tDl-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1280" y="-760" />
-              <mxPoint x="-1510" y="-760" />
+              <mxPoint x="-1510" y="-802" />
             </Array>
           </mxGeometry>
         </mxCell>
