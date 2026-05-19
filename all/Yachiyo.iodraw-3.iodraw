@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="sCe2R8c86K-MERxgr-LU">
-    <mxGraphModel dx="2867" dy="3066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3694" dy="3066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -202,6 +202,9 @@
         <mxCell id="wmCAqrg_QVDFLcr42tDl-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wmCAqrg_QVDFLcr42tDl-6" target="wmCAqrg_QVDFLcr42tDl-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="wmCAqrg_QVDFLcr42tDl-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wmCAqrg_QVDFLcr42tDl-6" target="wmCAqrg_QVDFLcr42tDl-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wmCAqrg_QVDFLcr42tDl-6" value="调用useMessage&lt;div&gt;获取历史消息以及title&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-1540" y="-692" width="120" height="60" as="geometry" />
         </mxCell>
@@ -240,6 +243,9 @@
         </mxCell>
         <mxCell id="wmCAqrg_QVDFLcr42tDl-23" value="通过reftchInterval&lt;div&gt;轮询获取title&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-1340" y="-832" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wmCAqrg_QVDFLcr42tDl-26" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-1740" y="-692" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
