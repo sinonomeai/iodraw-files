@@ -264,7 +264,7 @@
         <mxCell id="wmCAqrg_QVDFLcr42tDl-31" value="调用&lt;div&gt;/state/stores/useListStore&lt;span style=&quot;background-color: initial;&quot;&gt;中的updateSessionTitle&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;更新会话标题&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1720" y="-791.5" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wmCAqrg_QVDFLcr42tDl-32" value="根据查询参数获取初始消息，调用sendMessage后开启对话" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="wmCAqrg_QVDFLcr42tDl-32" value="根据查询参数获取初始消息，调用sendMessage后开启对话并replace跳转清除查询参数" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-1840" y="-700" width="120" height="68" as="geometry" />
         </mxCell>
       </root>
