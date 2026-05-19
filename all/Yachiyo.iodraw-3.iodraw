@@ -193,6 +193,9 @@
         <mxCell id="wmCAqrg_QVDFLcr42tDl-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-990" y="-430" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="wmCAqrg_QVDFLcr42tDl-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wmCAqrg_QVDFLcr42tDl-2" target="wmCAqrg_QVDFLcr42tDl-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
