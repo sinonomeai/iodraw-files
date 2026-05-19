@@ -185,9 +185,6 @@
         <mxCell id="TzJWysyViF4hzWapGxNy-57" value="标题异步生成并更新对应数据库" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-990" y="-856.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wmCAqrg_QVDFLcr42tDl-1" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-380" y="-280" width="60" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
