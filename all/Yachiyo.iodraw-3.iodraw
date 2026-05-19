@@ -258,7 +258,7 @@
         <mxCell id="wmCAqrg_QVDFLcr42tDl-26" value="调用useChat的setMessages保存历史消息，实现消息的持久保存" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-1700" y="-610" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wmCAqrg_QVDFLcr42tDl-31" value="调用&lt;div&gt;/state/stores/useListStore&lt;span style=&quot;background-color: initial;&quot;&gt;中的&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wmCAqrg_QVDFLcr42tDl-31" value="调用&lt;div&gt;/state/stores/useListStore&lt;span style=&quot;background-color: initial;&quot;&gt;中的updateSessionTitle&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;更新会话标题&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1720" y="-791.5" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
