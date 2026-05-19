@@ -244,7 +244,7 @@
         <mxCell id="wmCAqrg_QVDFLcr42tDl-23" value="通过reftchInterval&lt;div&gt;轮询获取title&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-1340" y="-832" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wmCAqrg_QVDFLcr42tDl-26" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="wmCAqrg_QVDFLcr42tDl-26" value="调用useChat的setMessages保存历史消息" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-1740" y="-692" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
