@@ -311,7 +311,7 @@
         <mxCell id="lpDBqWwj2siXkNGVLa1L-8" value="用户在会话页发送提示词" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-2250" y="-579" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lpDBqWwj2siXkNGVLa1L-11" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="lpDBqWwj2siXkNGVLa1L-11" value="调用sendMessage&lt;div&gt;传递给/api/chat/stream&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-2450" y="-579" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
