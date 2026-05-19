@@ -179,7 +179,12 @@
           <mxGeometry x="-890" y="-692" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lpDBqWwj2siXkNGVLa1L-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TzJWysyViF4hzWapGxNy-50" target="wmCAqrg_QVDFLcr42tDl-6">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1390" y="-662" />
+              <mxPoint x="-1390" y="-549" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="TzJWysyViF4hzWapGxNy-50" value="跳转到&lt;div&gt;&lt;div&gt;/yachiyo/${sessionId}&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-1340" y="-692" width="120" height="60" as="geometry" />
@@ -259,7 +264,12 @@
           <mxGeometry x="-1180" y="-832" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wmCAqrg_QVDFLcr42tDl-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wmCAqrg_QVDFLcr42tDl-23" target="wmCAqrg_QVDFLcr42tDl-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1280" y="-760" />
+              <mxPoint x="-1510" y="-760" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="wmCAqrg_QVDFLcr42tDl-23" value="通过reftchInterval&lt;div&gt;轮询获取title&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-1340" y="-832" width="120" height="60" as="geometry" />
@@ -286,7 +296,12 @@
           <mxGeometry x="-1100" y="-440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lpDBqWwj2siXkNGVLa1L-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lpDBqWwj2siXkNGVLa1L-3" target="wmCAqrg_QVDFLcr42tDl-6">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1390" y="-410" />
+              <mxPoint x="-1390" y="-549" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="lpDBqWwj2siXkNGVLa1L-3" value="用户点击跳转到对应会话页/yachiyo/${sessionId}" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-1320" y="-440" width="140" height="60" as="geometry" />
