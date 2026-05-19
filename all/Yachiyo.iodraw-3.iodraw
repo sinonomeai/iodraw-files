@@ -178,6 +178,9 @@
         <mxCell id="TzJWysyViF4hzWapGxNy-48" value="&lt;div&gt;/yachiyo&lt;/div&gt;用户发送提示词" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-890" y="-692" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="wmCAqrg_QVDFLcr42tDl-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TzJWysyViF4hzWapGxNy-50" target="wmCAqrg_QVDFLcr42tDl-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TzJWysyViF4hzWapGxNy-50" value="跳转到&lt;div&gt;&lt;div&gt;/yachiyo/${sessionId}&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-1340" y="-692" width="120" height="60" as="geometry" />
         </mxCell>
@@ -195,6 +198,9 @@
         </mxCell>
         <mxCell id="wmCAqrg_QVDFLcr42tDl-2" value="/yachiyo&lt;div&gt;用户点击历史对话记录跳转&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-890" y="-460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wmCAqrg_QVDFLcr42tDl-6" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-1540" y="-692" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
