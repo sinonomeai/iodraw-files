@@ -291,7 +291,7 @@
         <mxCell id="lpDBqWwj2siXkNGVLa1L-3" value="用户点击跳转到对应会话页/yachiyo/${sessionId}" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-1320" y="-440" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lpDBqWwj2siXkNGVLa1L-8" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="lpDBqWwj2siXkNGVLa1L-8" value="用户在会话页发送提示词" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-2220" y="-692" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
