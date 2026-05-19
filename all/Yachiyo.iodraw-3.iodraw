@@ -217,6 +217,11 @@
         <mxCell id="wmCAqrg_QVDFLcr42tDl-10" value="调用&lt;div&gt;/api/chat/sessions&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-1540" y="-972" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="wmCAqrg_QVDFLcr42tDl-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wmCAqrg_QVDFLcr42tDl-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1280" y="-840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wmCAqrg_QVDFLcr42tDl-12" value="根据传入sessionId查询数据库" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-1340" y="-972" width="120" height="60" as="geometry" />
         </mxCell>
