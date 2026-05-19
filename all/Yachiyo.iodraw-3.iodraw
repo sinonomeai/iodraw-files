@@ -199,7 +199,7 @@
         <mxCell id="wmCAqrg_QVDFLcr42tDl-2" value="/yachiyo&lt;div&gt;用户点击历史对话记录跳转&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-890" y="-460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wmCAqrg_QVDFLcr42tDl-6" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="wmCAqrg_QVDFLcr42tDl-6" value="调用useMessage&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-1540" y="-692" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
