@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="sCe2R8c86K-MERxgr-LU">
-    <mxGraphModel dx="4214" dy="3378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3492" dy="2945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -216,7 +216,7 @@
         </mxCell>
         <mxCell id="wmCAqrg_QVDFLcr42tDl-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wmCAqrg_QVDFLcr42tDl-6" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1670" y="-590" as="targetPoint" />
+            <mxPoint x="-1670" y="-617" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wmCAqrg_QVDFLcr42tDl-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wmCAqrg_QVDFLcr42tDl-6" target="wmCAqrg_QVDFLcr42tDl-32" edge="1">
@@ -226,19 +226,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wmCAqrg_QVDFLcr42tDl-6" value="调用useMessage&lt;div&gt;获取历史消息以及title&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-1570" y="-552" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1570" y="-579" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wmCAqrg_QVDFLcr42tDl-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wmCAqrg_QVDFLcr42tDl-8" target="wmCAqrg_QVDFLcr42tDl-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wmCAqrg_QVDFLcr42tDl-8" value="内部调用&lt;div&gt;/lib/chat-service&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-1570" y="-692" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1570" y="-719" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wmCAqrg_QVDFLcr42tDl-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wmCAqrg_QVDFLcr42tDl-10" target="wmCAqrg_QVDFLcr42tDl-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wmCAqrg_QVDFLcr42tDl-10" value="调用&lt;div&gt;/api/chat/sessions&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-1570" y="-832" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1570" y="-859" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wmCAqrg_QVDFLcr42tDl-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wmCAqrg_QVDFLcr42tDl-12" target="wmCAqrg_QVDFLcr42tDl-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -265,19 +265,19 @@
           <mxGeometry x="-1340" y="-832" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wmCAqrg_QVDFLcr42tDl-26" value="调用useChat的setMessages保存历史消息，实现消息的持久保存" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-1730" y="-470" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1730" y="-497" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wmCAqrg_QVDFLcr42tDl-31" value="调用&lt;div&gt;/state/stores/useListStore&lt;span style=&quot;background-color: initial;&quot;&gt;中的updateSessionTitle&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;更新会话标题&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1750" y="-651.5" width="140" height="60" as="geometry" />
+          <mxGeometry x="-1750" y="-678.5" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lpDBqWwj2siXkNGVLa1L-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wmCAqrg_QVDFLcr42tDl-32" target="lpDBqWwj2siXkNGVLa1L-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wmCAqrg_QVDFLcr42tDl-32" value="根据查询参数获取初始消息，调用sendMessage后开启对话并replace跳转清除查询参数" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-2010" y="-565" width="200" height="86" as="geometry" />
+          <mxGeometry x="-2010" y="-592" width="200" height="86" as="geometry" />
         </mxCell>
         <mxCell id="wmCAqrg_QVDFLcr42tDl-34" value="侧边栏和会话页调用&lt;div&gt;useListStore&lt;/div&gt;&lt;div&gt;获取标题&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-1570" y="-460" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1570" y="-487" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lpDBqWwj2siXkNGVLa1L-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lpDBqWwj2siXkNGVLa1L-1" target="lpDBqWwj2siXkNGVLa1L-3">
           <mxGeometry relative="1" as="geometry" />
@@ -292,7 +292,7 @@
           <mxGeometry x="-1320" y="-440" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lpDBqWwj2siXkNGVLa1L-8" value="用户在会话页发送提示词" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-2250" y="-552" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2250" y="-579" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
