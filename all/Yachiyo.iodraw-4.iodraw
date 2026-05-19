@@ -324,7 +324,7 @@
           <mxGeometry x="-2660" y="-589" width="135" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lpDBqWwj2siXkNGVLa1L-17" value="流式返回结果，在流式传输结束后调用回调函数saveAssistantMessage保存ai消息" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-2867.5" y="-579" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2930" y="-584" width="182.5" height="71" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
