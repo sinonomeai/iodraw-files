@@ -193,10 +193,8 @@
         <mxCell id="lpDBqWwj2siXkNGVLa1L-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wmCAqrg_QVDFLcr42tDl-2" target="lpDBqWwj2siXkNGVLa1L-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EcI5jV-2u0GVzva-3pH1-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wmCAqrg_QVDFLcr42tDl-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-975" y="-184" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="EcI5jV-2u0GVzva-3pH1-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wmCAqrg_QVDFLcr42tDl-2" target="EcI5jV-2u0GVzva-3pH1-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wmCAqrg_QVDFLcr42tDl-2" value="SiderBar加载时调用&lt;div&gt;/api/initialData/getList&lt;/div&gt;&lt;div&gt;获取会话列表并通过&lt;/div&gt;&lt;div&gt;useListStore&lt;/div&gt;&lt;div&gt;持久化存储会话列表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-895" y="-234" width="130" height="100" as="geometry" />
@@ -333,6 +331,9 @@
         </mxCell>
         <mxCell id="EcI5jV-2u0GVzva-3pH1-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.615;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TzJWysyViF4hzWapGxNy-7" target="wmCAqrg_QVDFLcr42tDl-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EcI5jV-2u0GVzva-3pH1-8" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-1100" y="-214" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
