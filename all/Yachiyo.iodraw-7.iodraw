@@ -414,8 +414,11 @@
         <mxCell id="EcI5jV-2u0GVzva-3pH1-33" value="提供删除以及重命名会话组件SessionMenu" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-1360" y="370" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="EcI5jV-2u0GVzva-3pH1-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EcI5jV-2u0GVzva-3pH1-36" target="EcI5jV-2u0GVzva-3pH1-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EcI5jV-2u0GVzva-3pH1-36" value="提供删除以及重命名知识库组件KbMenu" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-810" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="-720" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EcI5jV-2u0GVzva-3pH1-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EcI5jV-2u0GVzva-3pH1-39" target="EcI5jV-2u0GVzva-3pH1-41">
           <mxGeometry relative="1" as="geometry" />
@@ -434,6 +437,9 @@
         </mxCell>
         <mxCell id="EcI5jV-2u0GVzva-3pH1-47" value="/api/chat/sessions&lt;div&gt;更新会话&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-1210" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EcI5jV-2u0GVzva-3pH1-49" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-920" y="525" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
