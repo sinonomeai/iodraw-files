@@ -22,6 +22,9 @@
         <mxCell id="TzJWysyViF4hzWapGxNy-5" value="生成JWT Token" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="-574" y="-786" width="138" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="EcI5jV-2u0GVzva-3pH1-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TzJWysyViF4hzWapGxNy-6" target="EcI5jV-2u0GVzva-3pH1-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TzJWysyViF4hzWapGxNy-6" value="将Token存储在HttpOnly Cookie中" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="-605" y="-688" width="200" height="66" as="geometry" />
         </mxCell>
@@ -329,7 +332,7 @@
         <mxCell id="lpDBqWwj2siXkNGVLa1L-17" value="流式返回结果，在流式传输结束后调用回调函数saveAssistantMessage保存ai消息" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-2950" y="-584" width="202.5" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="EcI5jV-2u0GVzva-3pH1-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EcI5jV-2u0GVzva-3pH1-1" value="本地存储user数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-556" y="-573.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
