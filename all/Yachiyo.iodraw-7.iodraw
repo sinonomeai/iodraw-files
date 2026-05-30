@@ -41,7 +41,7 @@
         <mxCell id="TzJWysyViF4hzWapGxNy-8" value="每个来自浏览器的&#xa;后续请求&#xa;（api层来自next服务器）" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-590" y="-480" width="170" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="TzJWysyViF4hzWapGxNy-9" value="后端验证Token" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
+        <mxCell id="TzJWysyViF4hzWapGxNy-9" value="后端验证Token并解码出&#xa;userId" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="-573" y="-255" width="135" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TzJWysyViF4hzWapGxNy-10" value="授权访问资源" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
