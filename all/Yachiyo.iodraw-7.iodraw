@@ -35,15 +35,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wmCAqrg_QVDFLcr42tDl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TzJWysyViF4hzWapGxNy-7" target="wmCAqrg_QVDFLcr42tDl-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-830" y="-520" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="TzJWysyViF4hzWapGxNy-7" value="前端跳转到yachiyo页面" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
-          <mxGeometry x="-925" y="-570" width="190" height="49" as="geometry" />
+          <mxGeometry x="-910" y="-570" width="190" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TzJWysyViF4hzWapGxNy-8" value="每个来自浏览器的&#xa;后续请求&#xa;（api层来自next服务器）" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-590" y="-480" width="170" height="160" as="geometry" />
