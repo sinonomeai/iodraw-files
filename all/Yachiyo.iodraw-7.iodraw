@@ -398,6 +398,9 @@
         <mxCell id="EcI5jV-2u0GVzva-3pH1-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EcI5jV-2u0GVzva-3pH1-33" target="EcI5jV-2u0GVzva-3pH1-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="EcI5jV-2u0GVzva-3pH1-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EcI5jV-2u0GVzva-3pH1-33" target="EcI5jV-2u0GVzva-3pH1-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EcI5jV-2u0GVzva-3pH1-33" value="提供删除以及重命名会话组件SessionMenu" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-1160" y="370" width="120" height="60" as="geometry" />
         </mxCell>
@@ -410,8 +413,11 @@
         <mxCell id="EcI5jV-2u0GVzva-3pH1-39" value="/hooks/useSessionData&lt;div&gt;中useRemoveSession&lt;/div&gt;&lt;div&gt;删除会话&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-1400" y="490" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EcI5jV-2u0GVzva-3pH1-41" value="/api/chat/sessions&lt;div&gt;获取id&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="EcI5jV-2u0GVzva-3pH1-41" value="/api/chat/sessions&lt;div&gt;获取会话id&lt;/div&gt;&lt;div&gt;并删除&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-1385" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EcI5jV-2u0GVzva-3pH1-43" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
