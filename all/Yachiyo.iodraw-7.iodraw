@@ -417,6 +417,9 @@
         <mxCell id="EcI5jV-2u0GVzva-3pH1-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EcI5jV-2u0GVzva-3pH1-36" target="EcI5jV-2u0GVzva-3pH1-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="EcI5jV-2u0GVzva-3pH1-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EcI5jV-2u0GVzva-3pH1-36" target="EcI5jV-2u0GVzva-3pH1-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EcI5jV-2u0GVzva-3pH1-36" value="提供删除以及重命名知识库组件KbMenu" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-720" y="360" width="120" height="60" as="geometry" />
         </mxCell>
@@ -442,10 +445,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EcI5jV-2u0GVzva-3pH1-49" value="/hooks/useKnowledgeBasesData&lt;div&gt;中的useRemoveKnowledgeBases&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-920" y="490" width="200" height="70" as="geometry" />
+          <mxGeometry x="-960" y="490" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="EcI5jV-2u0GVzva-3pH1-51" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-880" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EcI5jV-2u0GVzva-3pH1-53" value="/hooks/useKnowledgeBasesData&lt;div&gt;中的useRemoveKnowledgeBases&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="490" width="180" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
