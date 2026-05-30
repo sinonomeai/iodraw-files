@@ -359,7 +359,7 @@
             <mxPoint x="-940" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EcI5jV-2u0GVzva-3pH1-32" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EcI5jV-2u0GVzva-3pH1-31">
+        <mxCell id="EcI5jV-2u0GVzva-3pH1-32" value="传递列表模式以及对应数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EcI5jV-2u0GVzva-3pH1-31">
           <mxGeometry x="-0.2744" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
