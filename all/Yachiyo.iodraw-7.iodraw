@@ -194,7 +194,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wmCAqrg_QVDFLcr42tDl-2" value="SiderBar加载时调用&lt;div&gt;/api/initialData/getList&lt;/div&gt;&lt;div&gt;获取会话列表并通过&lt;/div&gt;&lt;div&gt;useListStore&lt;/div&gt;&lt;div&gt;持久化存储会话列表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-895" y="-460" width="130" height="100" as="geometry" />
+          <mxGeometry x="-895" y="-234" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wmCAqrg_QVDFLcr42tDl-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wmCAqrg_QVDFLcr42tDl-6" target="wmCAqrg_QVDFLcr42tDl-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
