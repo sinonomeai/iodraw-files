@@ -344,7 +344,7 @@
         <mxCell id="EcI5jV-2u0GVzva-3pH1-16" value="调用/lib/logout退出登录" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-1040" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EcI5jV-2u0GVzva-3pH1-18" value="后端接受" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="EcI5jV-2u0GVzva-3pH1-18" value="/api/auth/logout接受&lt;div&gt;请求清除cookie&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-1040" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
