@@ -406,7 +406,7 @@
         <mxCell id="EcI5jV-2u0GVzva-3pH1-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EcI5jV-2u0GVzva-3pH1-33" target="EcI5jV-2u0GVzva-3pH1-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EcI5jV-2u0GVzva-3pH1-46" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EcI5jV-2u0GVzva-3pH1-44">
+        <mxCell id="EcI5jV-2u0GVzva-3pH1-46" value="调用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EcI5jV-2u0GVzva-3pH1-44">
           <mxGeometry x="-0.2649" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
