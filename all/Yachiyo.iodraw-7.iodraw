@@ -193,6 +193,11 @@
         <mxCell id="lpDBqWwj2siXkNGVLa1L-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wmCAqrg_QVDFLcr42tDl-2" target="lpDBqWwj2siXkNGVLa1L-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="EcI5jV-2u0GVzva-3pH1-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wmCAqrg_QVDFLcr42tDl-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-975" y="-184" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wmCAqrg_QVDFLcr42tDl-2" value="SiderBar加载时调用&lt;div&gt;/api/initialData/getList&lt;/div&gt;&lt;div&gt;获取会话列表并通过&lt;/div&gt;&lt;div&gt;useListStore&lt;/div&gt;&lt;div&gt;持久化存储会话列表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-895" y="-234" width="130" height="100" as="geometry" />
         </mxCell>
@@ -281,7 +286,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lpDBqWwj2siXkNGVLa1L-1" value="获取会话列表数据后&lt;div&gt;侧边栏渲染列表&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="-1100" y="-440" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1020" y="-440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lpDBqWwj2siXkNGVLa1L-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="lpDBqWwj2siXkNGVLa1L-3" target="wmCAqrg_QVDFLcr42tDl-6" edge="1">
           <mxGeometry relative="1" as="geometry">
