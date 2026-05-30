@@ -333,7 +333,7 @@
           <mxGeometry x="-1470" y="-74" width="160" height="74" as="geometry" />
         </mxCell>
         <mxCell id="EcI5jV-2u0GVzva-3pH1-12" value="分别从/state/store获取useSiderStore和useModStore" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-1210" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1230" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EcI5jV-2u0GVzva-3pH1-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EcI5jV-2u0GVzva-3pH1-15" target="EcI5jV-2u0GVzva-3pH1-16">
           <mxGeometry relative="1" as="geometry" />
@@ -357,7 +357,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EcI5jV-2u0GVzva-3pH1-20" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-1190" y="-77" width="80" height="80" as="geometry" />
+          <mxGeometry x="-1240" y="-89.5" width="120" height="107" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
