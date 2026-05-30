@@ -432,7 +432,7 @@
         <mxCell id="EcI5jV-2u0GVzva-3pH1-43" value="/hooks/useSessionData&lt;div&gt;中useUpdateSessionTitle&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-1020" y="490" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EcI5jV-2u0GVzva-3pH1-47" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="EcI5jV-2u0GVzva-3pH1-47" value="/api/chat/sessions&lt;div&gt;更新会话&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-1010" y="630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
