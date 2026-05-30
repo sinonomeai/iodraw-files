@@ -196,6 +196,9 @@
         <mxCell id="EcI5jV-2u0GVzva-3pH1-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wmCAqrg_QVDFLcr42tDl-2" target="EcI5jV-2u0GVzva-3pH1-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="EcI5jV-2u0GVzva-3pH1-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wmCAqrg_QVDFLcr42tDl-2" target="EcI5jV-2u0GVzva-3pH1-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wmCAqrg_QVDFLcr42tDl-2" value="SiderBar获取侧边栏、对话模式状态以及对应模式列表数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-895" y="-234" width="130" height="100" as="geometry" />
         </mxCell>
@@ -315,11 +318,14 @@
         <mxCell id="EcI5jV-2u0GVzva-3pH1-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.615;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TzJWysyViF4hzWapGxNy-7" target="wmCAqrg_QVDFLcr42tDl-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EcI5jV-2u0GVzva-3pH1-8" value="调用用/hooks/useDocBasesData的useDocBases获取知识库列表数据并缓存" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="EcI5jV-2u0GVzva-3pH1-8" value="调用用/hooks/useSessionsData的useDocSessions获取会话列表数据并缓存" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-1080" y="-460" width="170" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="EcI5jV-2u0GVzva-3pH1-10" value="调用/hooks/useDocBases的useDocBases获取知识库列表数据并缓存" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="EcI5jV-2u0GVzva-3pH1-10" value="调用/hooks/useDocBasesData的useDocBases获取知识库列表数据并缓存" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-1230" y="-221" width="160" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="EcI5jV-2u0GVzva-3pH1-12" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-890" y="-34" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
