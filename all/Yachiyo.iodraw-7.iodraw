@@ -330,6 +330,14 @@
         <mxCell id="EcI5jV-2u0GVzva-3pH1-10" value="调用/hooks/useDocBasesData的useDocBases获取知识库列表数据并缓存" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-1480" y="-72" width="160" height="74" as="geometry" />
         </mxCell>
+        <mxCell id="EcI5jV-2u0GVzva-3pH1-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EcI5jV-2u0GVzva-3pH1-12" target="EcI5jV-2u0GVzva-3pH1-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EcI5jV-2u0GVzva-3pH1-30" value="传递列表模式" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EcI5jV-2u0GVzva-3pH1-29">
+          <mxGeometry x="-0.273" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EcI5jV-2u0GVzva-3pH1-12" value="分别从/state/store获取useSiderStore和useModStore" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-1230" y="90" width="120" height="60" as="geometry" />
         </mxCell>
