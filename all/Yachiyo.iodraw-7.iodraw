@@ -37,7 +37,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TzJWysyViF4hzWapGxNy-7" value="前端跳转到yachiyo页面" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
-          <mxGeometry x="-600" y="-571" width="190" height="49" as="geometry" />
+          <mxGeometry x="-763" y="-568" width="190" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TzJWysyViF4hzWapGxNy-8" value="每个来自浏览器的&#xa;后续请求&#xa;（api层来自next服务器）" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-590" y="-480" width="170" height="160" as="geometry" />
