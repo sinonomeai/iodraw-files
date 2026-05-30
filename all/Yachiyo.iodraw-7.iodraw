@@ -379,16 +379,22 @@
         <mxCell id="EcI5jV-2u0GVzva-3pH1-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EcI5jV-2u0GVzva-3pH1-27" target="EcI5jV-2u0GVzva-3pH1-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EcI5jV-2u0GVzva-3pH1-35" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EcI5jV-2u0GVzva-3pH1-34">
+        <mxCell id="EcI5jV-2u0GVzva-3pH1-35" value="isChat" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EcI5jV-2u0GVzva-3pH1-34">
           <mxGeometry x="-0.2795" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EcI5jV-2u0GVzva-3pH1-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EcI5jV-2u0GVzva-3pH1-27" target="EcI5jV-2u0GVzva-3pH1-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EcI5jV-2u0GVzva-3pH1-27" value="组件List根据数据动态渲染会话列表或知识库列表" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-1000" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EcI5jV-2u0GVzva-3pH1-33" value="isChat" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-1160" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EcI5jV-2u0GVzva-3pH1-36" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
