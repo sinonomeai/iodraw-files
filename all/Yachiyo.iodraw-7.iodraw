@@ -416,8 +416,8 @@
         <mxCell id="EcI5jV-2u0GVzva-3pH1-41" value="/api/chat/sessions&lt;div&gt;获取会话id&lt;/div&gt;&lt;div&gt;并删除&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-1385" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EcI5jV-2u0GVzva-3pH1-43" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-960" y="370" width="120" height="60" as="geometry" />
+        <mxCell id="EcI5jV-2u0GVzva-3pH1-43" value="/hooks/useSessionData" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-1040" y="490" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
