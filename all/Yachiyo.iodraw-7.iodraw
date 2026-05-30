@@ -398,8 +398,18 @@
         <mxCell id="EcI5jV-2u0GVzva-3pH1-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EcI5jV-2u0GVzva-3pH1-33" target="EcI5jV-2u0GVzva-3pH1-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="EcI5jV-2u0GVzva-3pH1-45" value="调用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EcI5jV-2u0GVzva-3pH1-40">
+          <mxGeometry x="-0.3749" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EcI5jV-2u0GVzva-3pH1-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EcI5jV-2u0GVzva-3pH1-33" target="EcI5jV-2u0GVzva-3pH1-43">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EcI5jV-2u0GVzva-3pH1-46" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EcI5jV-2u0GVzva-3pH1-44">
+          <mxGeometry x="-0.2649" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="EcI5jV-2u0GVzva-3pH1-33" value="提供删除以及重命名会话组件SessionMenu" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-1160" y="370" width="120" height="60" as="geometry" />
@@ -417,7 +427,7 @@
           <mxGeometry x="-1385" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EcI5jV-2u0GVzva-3pH1-43" value="/hooks/useSessionData&lt;div&gt;中useUpdateSessionTitle&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="490" width="150" height="80" as="geometry" />
+          <mxGeometry x="-1020" y="490" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
