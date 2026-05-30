@@ -412,7 +412,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EcI5jV-2u0GVzva-3pH1-33" value="提供删除以及重命名会话组件SessionMenu" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-1160" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1360" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EcI5jV-2u0GVzva-3pH1-36" value="提供删除以及重命名知识库组件KbMenu" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-810" y="370" width="120" height="60" as="geometry" />
@@ -421,19 +421,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EcI5jV-2u0GVzva-3pH1-39" value="/hooks/useSessionData&lt;div&gt;中useRemoveSession&lt;/div&gt;&lt;div&gt;删除会话&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-1400" y="490" width="150" height="60" as="geometry" />
+          <mxGeometry x="-1600" y="490" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EcI5jV-2u0GVzva-3pH1-41" value="/api/chat/sessions&lt;div&gt;获取会话id&lt;/div&gt;&lt;div&gt;并删除&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-1385" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1585" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EcI5jV-2u0GVzva-3pH1-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EcI5jV-2u0GVzva-3pH1-43" target="EcI5jV-2u0GVzva-3pH1-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EcI5jV-2u0GVzva-3pH1-43" value="/hooks/useSessionData&lt;div&gt;中useUpdateSessionTitle&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-1020" y="490" width="140" height="60" as="geometry" />
+          <mxGeometry x="-1220" y="490" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EcI5jV-2u0GVzva-3pH1-47" value="/api/chat/sessions&lt;div&gt;更新会话&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-1010" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1210" y="630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
