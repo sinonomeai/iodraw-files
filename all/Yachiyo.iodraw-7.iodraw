@@ -327,10 +327,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EcI5jV-2u0GVzva-3pH1-8" value="调用用/hooks/useSessionsData的useDocSessions获取会话列表数据并缓存" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-1235" y="-300" width="170" height="120" as="geometry" />
+          <mxGeometry x="-1260" y="-300" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="EcI5jV-2u0GVzva-3pH1-10" value="调用/hooks/useDocBasesData的useDocBases获取知识库列表数据并缓存" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-1470" y="-74" width="160" height="74" as="geometry" />
+          <mxGeometry x="-1480" y="-72" width="160" height="74" as="geometry" />
         </mxCell>
         <mxCell id="EcI5jV-2u0GVzva-3pH1-12" value="分别从/state/store获取useSiderStore和useModStore" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-1230" y="90" width="120" height="60" as="geometry" />
@@ -357,7 +357,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EcI5jV-2u0GVzva-3pH1-20" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-1240" y="-89.5" width="130" height="119.5" as="geometry" />
+          <mxGeometry x="-1240" y="-100" width="130" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
