@@ -202,6 +202,9 @@
         <mxCell id="EcI5jV-2u0GVzva-3pH1-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wmCAqrg_QVDFLcr42tDl-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-980" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-979" y="-36" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="EcI5jV-2u0GVzva-3pH1-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wmCAqrg_QVDFLcr42tDl-2" target="EcI5jV-2u0GVzva-3pH1-20">
@@ -339,7 +342,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EcI5jV-2u0GVzva-3pH1-15" value="组件SiderLogin&lt;div&gt;获取本地存储的用户信息，渲染用户名&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1040" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EcI5jV-2u0GVzva-3pH1-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EcI5jV-2u0GVzva-3pH1-16" target="EcI5jV-2u0GVzva-3pH1-18">
           <mxGeometry relative="1" as="geometry" />
@@ -356,7 +359,7 @@
             <mxPoint x="-1310" y="-37" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EcI5jV-2u0GVzva-3pH1-20" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="EcI5jV-2u0GVzva-3pH1-20" value="初始化数据" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-1240" y="-100" width="130" height="130" as="geometry" />
         </mxCell>
       </root>
