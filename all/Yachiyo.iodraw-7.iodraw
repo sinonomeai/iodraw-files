@@ -337,16 +337,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EcI5jV-2u0GVzva-3pH1-15" value="组件SiderLogin&lt;div&gt;获取本地存储的用户信息，渲染用户名&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-780" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="-682.5" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EcI5jV-2u0GVzva-3pH1-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EcI5jV-2u0GVzva-3pH1-16" target="EcI5jV-2u0GVzva-3pH1-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EcI5jV-2u0GVzva-3pH1-16" value="调用/lib/logout退出登录" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-780" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="-682.5" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EcI5jV-2u0GVzva-3pH1-18" value="/api/auth/logout接受&lt;div&gt;请求清除cookie&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-780" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="-682.5" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EcI5jV-2u0GVzva-3pH1-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wmCAqrg_QVDFLcr42tDl-2" target="EcI5jV-2u0GVzva-3pH1-20">
           <mxGeometry relative="1" as="geometry">
@@ -380,7 +380,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EcI5jV-2u0GVzva-3pH1-27" value="组件List根据数据动态渲染会话列表或知识库列表" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-1000" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1000" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EcI5jV-2u0GVzva-3pH1-33" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-1160" y="370" width="120" height="60" as="geometry" />
