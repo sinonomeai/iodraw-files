@@ -438,7 +438,7 @@
         <mxCell id="EcI5jV-2u0GVzva-3pH1-47" value="/api/chat/sessions&lt;div&gt;更新会话&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-1210" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EcI5jV-2u0GVzva-3pH1-49" value="/hooks/useKnowledgeBasesData&lt;div&gt;中的use&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="EcI5jV-2u0GVzva-3pH1-49" value="/hooks/useKnowledgeBasesData&lt;div&gt;中的useRemoveKnowledgeBases&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-920" y="490" width="200" height="90" as="geometry" />
         </mxCell>
       </root>
