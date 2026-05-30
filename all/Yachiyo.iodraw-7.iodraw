@@ -204,6 +204,9 @@
             <mxPoint x="-980" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="EcI5jV-2u0GVzva-3pH1-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wmCAqrg_QVDFLcr42tDl-2" target="EcI5jV-2u0GVzva-3pH1-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wmCAqrg_QVDFLcr42tDl-2" value="SiderBar获取侧边栏、对话模式状态以及对应模式列表数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-895" y="-86" width="130" height="100" as="geometry" />
         </mxCell>
@@ -327,7 +330,7 @@
           <mxGeometry x="-1080" y="-290.5" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="EcI5jV-2u0GVzva-3pH1-10" value="调用/hooks/useDocBasesData的useDocBases获取知识库列表数据并缓存" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-1300" y="-73" width="160" height="74" as="geometry" />
+          <mxGeometry x="-1470" y="-74" width="160" height="74" as="geometry" />
         </mxCell>
         <mxCell id="EcI5jV-2u0GVzva-3pH1-12" value="分别从/state/store获取useSiderStore和useModStore" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-890" y="410" width="120" height="60" as="geometry" />
@@ -346,6 +349,9 @@
         </mxCell>
         <mxCell id="EcI5jV-2u0GVzva-3pH1-18" value="/api/auth/logout接受&lt;div&gt;请求清除cookie&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-1040" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EcI5jV-2u0GVzva-3pH1-20" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="-76" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
