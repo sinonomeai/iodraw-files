@@ -202,10 +202,8 @@
         <mxCell id="EcI5jV-2u0GVzva-3pH1-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wmCAqrg_QVDFLcr42tDl-2" target="EcI5jV-2u0GVzva-3pH1-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EcI5jV-2u0GVzva-3pH1-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wmCAqrg_QVDFLcr42tDl-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-830" y="110" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="EcI5jV-2u0GVzva-3pH1-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wmCAqrg_QVDFLcr42tDl-2" target="EcI5jV-2u0GVzva-3pH1-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wmCAqrg_QVDFLcr42tDl-2" value="SiderBar获取侧边栏、对话模式状态以及对应模式列表数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-895" y="-86" width="130" height="100" as="geometry" />
@@ -358,6 +356,9 @@
         </mxCell>
         <mxCell id="EcI5jV-2u0GVzva-3pH1-20" value="初始化数据" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-1240" y="-100" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="EcI5jV-2u0GVzva-3pH1-24" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-870" y="104" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
