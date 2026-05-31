@@ -512,8 +512,8 @@
         <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-17" value="调用/hooks/useDocBasesData&lt;div&gt;获取重命名以及删除方法&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2000" y="-1090" width="177.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-19" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1971.25" y="-950" width="120" height="60" as="geometry" />
+        <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-19" value="调用/api/knowledge-bases/[baseId]/documents" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1971.25" y="-980" width="151.25" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
