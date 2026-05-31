@@ -628,14 +628,11 @@
         <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-57" value="如果传入知识库id和文档id" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-2333.135" y="-310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gs2iGQ2W2-YrPT0C-XGh-59" target="Gs2iGQ2W2-YrPT0C-XGh-61">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-59" value="检测是否为概述类&lt;div&gt;请求&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-2520.005" y="-310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-61" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-2520.005" y="-450" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2640.005" y="-450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
