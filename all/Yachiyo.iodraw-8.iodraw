@@ -470,8 +470,14 @@
         <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-1" value="选择知识库&lt;div&gt;切换聊天模式状态&lt;/div&gt;&lt;div&gt;跳转到/yachiyo/docbase&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-875" y="-1220" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gs2iGQ2W2-YrPT0C-XGh-5" target="Gs2iGQ2W2-YrPT0C-XGh-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-5" value="调用useKBases&lt;div&gt;以卡片形式渲染知识库&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1075" y="-1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-7" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1275" y="-1220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
