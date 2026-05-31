@@ -640,10 +640,10 @@
           <mxGeometry x="-2520.005" y="-310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-61" value="调用./rag/buildRagContext&lt;div&gt;中的buildFullDocumentsContext&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-2650" y="-470" width="140.01" height="80" as="geometry" />
+          <mxGeometry x="-2660" y="-470" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-63" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-2639.995" y="-180" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2670" y="-180" width="150.01" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.494;entryY=1.061;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Gs2iGQ2W2-YrPT0C-XGh-59" target="Gs2iGQ2W2-YrPT0C-XGh-61">
           <mxGeometry relative="1" as="geometry" />
