@@ -613,11 +613,17 @@
         <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gs2iGQ2W2-YrPT0C-XGh-53" target="Gs2iGQ2W2-YrPT0C-XGh-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gs2iGQ2W2-YrPT0C-XGh-53" target="Gs2iGQ2W2-YrPT0C-XGh-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-53" value="/api/chat/stream监听前端请求" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-2333.125" y="-570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-55" value="如果deepThinking为true启动深度搜索" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-2333.125" y="-710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-57" value="如果传入知识库id和文档id" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-2533.125" y="-570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
