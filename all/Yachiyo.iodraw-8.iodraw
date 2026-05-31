@@ -520,7 +520,7 @@
         <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.493;entryY=-0.039;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Gs2iGQ2W2-YrPT0C-XGh-17" target="Gs2iGQ2W2-YrPT0C-XGh-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-24" value="KnowledgeModal" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-24" value="KnowledgeModal组件&lt;div&gt;获取&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-1430" y="-430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
