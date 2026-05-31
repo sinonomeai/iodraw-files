@@ -713,7 +713,7 @@
         <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-86" value="合并上下文" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-2730" y="850" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-88" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-88" value="调用大模型返回文本" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-2930" y="850" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
