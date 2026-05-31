@@ -513,7 +513,7 @@
           <mxGeometry x="-2000" y="-1090" width="177.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-19" value="调用/api/knowledge-bases/[baseId]/documents" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1971.25" y="-980" width="151.25" height="60" as="geometry" />
+          <mxGeometry x="-2010" y="-960" width="181.25" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
