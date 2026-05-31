@@ -510,10 +510,14 @@
           <mxGeometry x="-2000" y="-1090" width="177.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-19" value="调用/api/knowledge-bases/[baseId]/documents" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2000" y="-960" width="181.25" height="60" as="geometry" />
+          <mxGeometry x="-2000" y="-960" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.544;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Gs2iGQ2W2-YrPT0C-XGh-17" target="Gs2iGQ2W2-YrPT0C-XGh-19">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1911" y="-961" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
