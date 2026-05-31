@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="sCe2R8c86K-MERxgr-LU">
-    <mxGraphModel dx="3694" dy="3066" grid="1" gridSize="10" guides="0" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4214" dy="3378" grid="1" gridSize="10" guides="0" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -353,6 +353,9 @@
             <mxPoint x="-830" y="-760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EcI5jV-2u0GVzva-3pH1-86" target="Gs2iGQ2W2-YrPT0C-XGh-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EcI5jV-2u0GVzva-3pH1-86" value="跳转到/yachiyo" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-880" y="-610" width="130" height="130" as="geometry" />
         </mxCell>
@@ -460,6 +463,9 @@
         </mxCell>
         <mxCell id="EcI5jV-2u0GVzva-3pH1-124" value="/hooks/useSessionsData&lt;div&gt;用updateTitle更新列表标题&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-1866.87" y="-850" width="146.88" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-1" value="选择知识库&lt;div&gt;切换聊天模式状态&lt;/div&gt;&lt;div&gt;跳转到/yachiyo/docbase&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-875" y="-1220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
