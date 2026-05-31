@@ -628,8 +628,8 @@
         <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-57" value="如果传入知识库id和文档id" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-2533.125" y="-570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-59" value="检测是否为概述类" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-2533.125" y="-710" width="120" height="60" as="geometry" />
+        <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-59" value="检测是否为概述类&lt;div&gt;请求&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-2719.995" y="-570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
