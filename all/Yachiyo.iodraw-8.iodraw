@@ -491,11 +491,17 @@
         <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-9" value="调用useParams获取baseId" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1542.5" y="-1220" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gs2iGQ2W2-YrPT0C-XGh-11" target="Gs2iGQ2W2-YrPT0C-XGh-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-11" value="传入useDocuments&lt;div&gt;获取文档信息&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1742.5" y="-1220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-13" value="&lt;div&gt;调用useKBases获取知识库信息&lt;/div&gt;用find方法获取对应知识库" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1542.5" y="-1360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-15" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1742.5" y="-1080" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
