@@ -568,8 +568,14 @@
         <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-36" value="for循环遍历文件数组&lt;div&gt;将正在操作的文件上传状态改为uploading&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2142.5" y="-1360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-38" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gs2iGQ2W2-YrPT0C-XGh-38" target="Gs2iGQ2W2-YrPT0C-XGh-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-38" value="调用原生的await task.file.text()方法&lt;div&gt;获取文档文本&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2342.5" y="-1360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-40" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2342.5" y="-1500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
