@@ -559,8 +559,8 @@
         <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gs2iGQ2W2-YrPT0C-XGh-34" target="Gs2iGQ2W2-YrPT0C-XGh-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-34" value="筛选md文件&lt;div&gt;然后初始化任务列表状态为pending&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1942.5" y="-1360" width="120" height="60" as="geometry" />
+        <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-34" value="筛选md文件&lt;div&gt;然后初始化任务列表状态为pending,同时设置上传状态为true&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1950" y="-1370" width="132.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-36" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2142.5" y="-1360" width="120" height="60" as="geometry" />
