@@ -629,7 +629,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-57" value="如果传入知识库id和文档id" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-2503.135" y="-260" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2533.135" y="-260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gs2iGQ2W2-YrPT0C-XGh-59" target="Gs2iGQ2W2-YrPT0C-XGh-63">
           <mxGeometry relative="1" as="geometry" />
@@ -640,16 +640,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-59" value="检测是否为概述类&lt;div&gt;请求&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-2690.005" y="-260" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2720.005" y="-260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gs2iGQ2W2-YrPT0C-XGh-61" target="Gs2iGQ2W2-YrPT0C-XGh-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-61" value="调用./rag/buildRagContext&lt;div&gt;中的buildFullDocumentsContext&lt;/div&gt;&lt;div&gt;返回rag上下文&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-2840" y="-420" width="150" height="80" as="geometry" />
+          <mxGeometry x="-2870" y="-420" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-63" value="先调用rewritequery改写用户提示词&lt;div&gt;再buildContext返回检索上下文&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-2840" y="-130" width="150.01" height="60" as="geometry" />
+          <mxGeometry x="-2870" y="-130" width="150.01" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.494;entryY=1.061;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Gs2iGQ2W2-YrPT0C-XGh-59" target="Gs2iGQ2W2-YrPT0C-XGh-61">
           <mxGeometry relative="1" as="geometry" />
@@ -663,13 +663,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-68" value="拼接到系统提示词内" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-2970" y="-250" width="120" height="60" as="geometry" />
+          <mxGeometry x="-3000" y="-250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.509;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Gs2iGQ2W2-YrPT0C-XGh-63" target="Gs2iGQ2W2-YrPT0C-XGh-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-71" value="调用模型流式返回文本" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-3020" y="-570" width="120" height="60" as="geometry" />
+          <mxGeometry x="-3230" y="-570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-74" value="调用/lib/chat-store中的saveUserMessage&lt;div&gt;保存用户消息&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-2533.125" y="-570" width="120" height="60" as="geometry" />
