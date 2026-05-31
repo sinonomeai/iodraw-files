@@ -631,10 +631,15 @@
         <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gs2iGQ2W2-YrPT0C-XGh-59" target="Gs2iGQ2W2-YrPT0C-XGh-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-67" value="不是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gs2iGQ2W2-YrPT0C-XGh-64">
+          <mxGeometry x="-0.133" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-59" value="检测是否为概述类&lt;div&gt;请求&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-2520.005" y="-310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-61" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-61" value="调用./rag/buildRagContext" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-2640.005" y="-450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-63" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
@@ -643,7 +648,7 @@
         <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.494;entryY=1.061;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Gs2iGQ2W2-YrPT0C-XGh-59" target="Gs2iGQ2W2-YrPT0C-XGh-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-66" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gs2iGQ2W2-YrPT0C-XGh-65">
+        <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-66" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gs2iGQ2W2-YrPT0C-XGh-65">
           <mxGeometry x="-0.0211" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
