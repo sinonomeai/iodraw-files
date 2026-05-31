@@ -571,8 +571,11 @@
         <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-38" value="调用原生的await task.file.text()方法&lt;div&gt;获取文档文本&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2342.5" y="-1360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-40" value="/hooks/useDocBasesData" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-40" value="/hooks/useDocBasesData&lt;div&gt;调用useUploadDocuments&lt;/div&gt;&lt;div&gt;将文档数据上传写入数据库&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2350" y="-1500" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.444;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Gs2iGQ2W2-YrPT0C-XGh-38" target="Gs2iGQ2W2-YrPT0C-XGh-40">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
