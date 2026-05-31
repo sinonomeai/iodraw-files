@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="sCe2R8c86K-MERxgr-LU">
-    <mxGraphModel dx="7601" dy="4418" grid="1" gridSize="10" guides="0" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6561" dy="3794" grid="1" gridSize="10" guides="0" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -682,39 +682,6 @@
         </mxCell>
         <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-77" value="成功时，onFinish回调&lt;div&gt;saveAssistantMessage&lt;/div&gt;&lt;div&gt;保存ai消息&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-3460" y="-570" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Gs2iGQ2W2-YrPT0C-XGh-79" target="Gs2iGQ2W2-YrPT0C-XGh-80" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-79" value="用户输入提示词" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3130" y="570" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Gs2iGQ2W2-YrPT0C-XGh-80" target="Gs2iGQ2W2-YrPT0C-XGh-82" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-80" value="将用户提示词向量化" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="-3130" y="710" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Gs2iGQ2W2-YrPT0C-XGh-82" target="Gs2iGQ2W2-YrPT0C-XGh-84" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-82" value="与已有的向量知识库切片文档匹配相似度" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="-2930" y="710" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Gs2iGQ2W2-YrPT0C-XGh-84" target="Gs2iGQ2W2-YrPT0C-XGh-86" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-84" value="返回相似度最高的片段" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="-2730" y="710" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Gs2iGQ2W2-YrPT0C-XGh-86" target="Gs2iGQ2W2-YrPT0C-XGh-88" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-86" value="合并上下文" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="-2730" y="850" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-88" value="调用大模型返回文本" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="-2930" y="850" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
