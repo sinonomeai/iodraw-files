@@ -689,8 +689,14 @@
         <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-79" value="用户输入提示词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3130" y="570" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gs2iGQ2W2-YrPT0C-XGh-80" target="Gs2iGQ2W2-YrPT0C-XGh-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-80" value="将用户提示词向量化" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-3130" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs2iGQ2W2-YrPT0C-XGh-82" value="与已有的向量知识库切片文档匹配相似度" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-2930" y="710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
