@@ -16,7 +16,7 @@
         <mxCell id="LMgTgV5FkC8XYkMj5p6S-3" value="大厅" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LMgTgV5FkC8XYkMj5p6S-4" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="LMgTgV5FkC8XYkMj5p6S-4" value="学号+密码" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-900" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
