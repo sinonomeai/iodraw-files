@@ -25,8 +25,14 @@
         <mxCell id="LMgTgV5FkC8XYkMj5p6S-6" value="注册" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-610" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LMgTgV5FkC8XYkMj5p6S-7" value="学号&lt;div&gt;姓名&lt;/div&gt;&lt;div&gt;昵称&lt;/div&gt;&lt;div&gt;性别&lt;/div&gt;&lt;div&gt;政治面貌&lt;br&gt;密码&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-665" y="240" width="225" height="160" as="geometry" />
+        <mxCell id="LMgTgV5FkC8XYkMj5p6S-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LMgTgV5FkC8XYkMj5p6S-7" target="LMgTgV5FkC8XYkMj5p6S-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LMgTgV5FkC8XYkMj5p6S-7" value="学号：10&lt;div&gt;姓名&lt;/div&gt;&lt;div&gt;昵称：&lt;/div&gt;&lt;div&gt;性别：男女&lt;/div&gt;&lt;div&gt;政治面貌：中共党员、共青团员、群众、中共预备役&lt;br&gt;密码&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-666" y="237" width="225" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="LMgTgV5FkC8XYkMj5p6S-10" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-613.5" y="527" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
