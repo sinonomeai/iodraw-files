@@ -31,7 +31,7 @@
         <mxCell id="LMgTgV5FkC8XYkMj5p6S-7" value="学号：10&lt;div&gt;姓名&lt;/div&gt;&lt;div&gt;昵称：&lt;/div&gt;&lt;div&gt;性别：男女&lt;/div&gt;&lt;div&gt;政治面貌：中共党员、共青团员、群众、中共预备役&lt;br&gt;密码&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-666" y="237" width="225" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="LMgTgV5FkC8XYkMj5p6S-10" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="LMgTgV5FkC8XYkMj5p6S-10" value="后端接受" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-613.5" y="527" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
