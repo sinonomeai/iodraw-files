@@ -25,8 +25,8 @@
         <mxCell id="LMgTgV5FkC8XYkMj5p6S-6" value="注册" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-610" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LMgTgV5FkC8XYkMj5p6S-7" value="学号&lt;div&gt;姓名&lt;/div&gt;&lt;div&gt;昵称&lt;/div&gt;&lt;div&gt;性别&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-665" y="240" width="230" height="60" as="geometry" />
+        <mxCell id="LMgTgV5FkC8XYkMj5p6S-7" value="学号&lt;div&gt;姓名&lt;/div&gt;&lt;div&gt;昵称&lt;/div&gt;&lt;div&gt;性别&lt;/div&gt;&lt;div&gt;政治面貌&lt;br&gt;密码&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-665" y="240" width="225" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
