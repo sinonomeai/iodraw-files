@@ -26,7 +26,7 @@
           <mxGeometry x="-610" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LMgTgV5FkC8XYkMj5p6S-7" value="学号&lt;div&gt;姓名&lt;/div&gt;&lt;div&gt;昵称&lt;/div&gt;&lt;div&gt;性别&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-610" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="-680" y="250" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
